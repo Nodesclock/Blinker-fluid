@@ -13,7 +13,7 @@ I started this project mainly because my main browser on my PC is Ungoogled Chro
 ## What are the requirements for Blinker fluid and How do I install it?
  Tested & functional: An arm64e device on iOS 15.4 is recommended (This was only tested on an iPhone 13 pro running iOS 15.4 jailbroken)
  
- Untested: This should work on any arm64e device running any iOS 15 version, but I haven't tested it on any other device and other iOS 15 version.
+ Untested: This should work on any arm64e device running any iOS 15 version, but I haven't tested it on any other device and other iOS 15 version. (Make an issue ticket if your iOS version is not iOS 15.4 and it doesn't work/crashes :D)
 
 # Features (Current)
 
