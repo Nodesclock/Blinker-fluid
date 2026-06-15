@@ -13,7 +13,7 @@ I started this project mainly because my main browser on my PC is Ungoogled Chro
 ## What are the requirements for Blinker fluid and How do I install it?
  Tested & functional: An arm64e device on iOS 15.4 is recommended (This was only tested on an iPhone 13 pro running iOS 15.4 jailbroken)
  
- Untested: This should work on any arm64e device running any iOS 15 version, but I haven't tested it on any other device and other iOS 15 version. (Make an issue ticket if your iOS version is not iOS 15.4 and it doesn't work/crashes :D)
+ Untested: This should work on any arm64e device running any iOS 15 version, but I haven't tested it on any other device and other iOS 15 version. (Make an issue ticket if your iOS version is not iOS 15.4 and it doesn't work/crashes. This works on iOS 16 and 26.1 when using livecontainer too apparently :D)
 
 # Features (Current)
 
@@ -57,6 +57,7 @@ I tried getting it to run with JIT enabled through Trollstore, but it kept crash
 | <img width="500" height="1000" alt="8252CD69-29BF-42EA-8C7E-41ACCB40BC5D" src="https://github.com/user-attachments/assets/20717283-7353-4880-beaa-413aea0ad65b" />| <img width="500" height="1000" alt="1B3CE020-188F-4FF4-9F52-D6A526BF6E12" src="https://github.com/user-attachments/assets/b03ae5e3-6fd0-475a-8508-63712f4be516" />| <img width="500" height="1000" alt="60853588-4371-4231-B516-78F635F9C1FA" src="https://github.com/user-attachments/assets/da35d2e6-2507-4bf9-af3a-1ed14321ab7d" />
 
 # What is being worked on or will be added in the future:
+- Better iOS version compatibility (iOS 16 confirmed to work and 26.1 through live container is also confirmed to work already. Working on an iOS 14 backport!)
 - Video playback full screen support
 - Adding JIT support (Main priority at the moment, will probably fix many issues alone)
 - ChatGPT website crashing the app (Already working on it)
