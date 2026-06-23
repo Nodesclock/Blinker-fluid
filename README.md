@@ -91,6 +91,9 @@ Apple requires every iOS browser to use WebKit and all browsers on the appstore 
 - Research about how Blink/V8 could be ported onto iOS.
 - Some small quick bug fixes.
 
+## Where's the source code?
+no
+
 # Credits:
 - Reynard Browser by Minh Ton heavily inspired the making of this
 - Chromium open-source project
